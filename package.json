@@ -1,0 +1,26 @@
+{
+    "name": "orangeflavor",
+    "displayName": "OrangeFlavor",
+    "description": "OrangeFlavor is a theme for the orange lovers, beyond having orange as the main accent color, OrangeFlavor still counts with beautiful vibrant colors for syntax highlights.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "OrangeFlavor Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/OrangeFlavor Theme-color-theme.json"
+            }
+        ]
+    },
+    "icon": "images/orange.png",
+    "galleryBanner": {
+        "color": "#2E2C2A",
+        "theme": "dark"
+    }
+}
